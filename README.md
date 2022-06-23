@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I solve real world problems with software😁.
+- Currently building products around Subscription, Payment & Remittance 🤑💳
+- Building DevTools around monitoring & observability🔭🚨
+- Building communities around Azure and Mixed Reality👨‍👩‍👧‍👧
 <!--
 **IzyPro/IzyPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
